@@ -1,0 +1,14 @@
+{
+    "name": "zellib",
+    "version": "1.0.0",
+    "description": "A simple freestanding C library.",
+    "isExecutable": "false",
+    "isHeader": "true",
+    "keywords": [
+      "zellib",
+      "header",
+      "library"
+    ],
+    "author": "AzureianGH",
+    "license": "MIT"
+}
